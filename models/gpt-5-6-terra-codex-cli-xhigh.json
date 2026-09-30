@@ -3,6 +3,7 @@
   "vendor": "OpenAI",
   "harness": "Codex CLI",
   "effort": "xhigh",
+  "artifactDir": "gpt-5-6-terra/codex-cli-xhigh",
   "order": 29.6,
   "runs": {
     "turf-war": {
